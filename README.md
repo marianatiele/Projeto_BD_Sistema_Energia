@@ -2,7 +2,7 @@
 
 ##  Descrição
 
-Este projeto tem como objetivo o acompanhamento e gerenciamento de contas de eletricidade de clientes, proporcionando controle eficiente sobre registros, consumo e pagamentos, utilizando banco de dados relacional com PostregreSQL. 
+Este projeto tem como objetivo o acompanhamento e gerenciamento de contas de eletricidade de clientes, proporcionando controle eficiente sobre registros, consumo e pagamentos, utilizando banco de dados relacional com PostgreSQL. 
 
 ## Tecnologias Utilizadas
 
