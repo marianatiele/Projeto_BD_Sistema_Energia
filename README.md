@@ -18,6 +18,5 @@ Este projeto tem como objetivo o acompanhamento e gerenciamento de contas de ele
 
 Abra o arquivo Sistema_Enge.sql no PostgreSQL para criar o banco de dados, schema e as tabelas. Execute os arquivos para inserir os dados e criar as  consultas e views.
 
-🚧 Status do Projeto
-Em andamento
+
 
