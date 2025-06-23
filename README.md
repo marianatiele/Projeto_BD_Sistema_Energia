@@ -13,6 +13,9 @@ Este projeto tem como objetivo o acompanhamento e gerenciamento de contas de ele
 ## Modelo Lógico 
 ![image](https://github.com/user-attachments/assets/a95a3d25-f9cb-49a7-aff4-38472ed42e72)
 
+## Diagrama
+![image](https://github.com/user-attachments/assets/061f7f66-7bae-4bd5-81ac-c8ea2238bc25)
+
 
 ## Como usar
 
