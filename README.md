@@ -42,6 +42,5 @@ Este projeto tem como objetivo o acompanhamento e gerenciamento de contas de ele
 ## Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir Issues, propor melhorias ou enviar Pull Requests com correções e novos recursos. 
 
-## Contato
-Desenvolvido por [Maria Natiele] 
+
 
