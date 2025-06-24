@@ -1,8 +1,8 @@
-# Projeto de Banco de Dados - Sistema de Energia - Enge
+# Projeto de Banco de Dados PostgreSQL para Gestão de Energia – ENGE
 
 ##  Descrição
 
-Este projeto tem como objetivo o acompanhamento e gerenciamento de contas de eletricidade de clientes, proporcionando controle eficiente sobre registros, consumo e pagamentos, utilizando banco de dados relacional com PostgreSQL. 
+Este projeto apresenta a modelagem de banco de dados em PostgreSQL para um sistema de gestão de energia da empresa ENGE. O modelo está normalizado até a 3ª Forma Normal (3FN), garantindo organização eficiente dos dados relacionados ao consumo, medições e operações do sistema energético, além de evitar redundâncias e facilitar a manutenção.
 
 ## Tecnologias Utilizadas
 
@@ -12,6 +12,7 @@ Este projeto tem como objetivo o acompanhamento e gerenciamento de contas de ele
 - DBeaver
   
  ## Principais entidades do sistema
+ 
 - **Cliente**: Pessoa física  que consome energia.
 - **Funcionário**: Responsável por atividades como instalação de medidores e leitura de consumo.
 - **Medidor**: Equipamento instalado em cada unidade consumidora, com leituras periódicas.
