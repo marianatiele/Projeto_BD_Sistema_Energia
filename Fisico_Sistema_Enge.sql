@@ -80,6 +80,15 @@ create table sm_enge.Pagamento (
 );
 
     	
+    	
+-- Criando index
+
+create index idx_paga_conta  on sm_enge.Pagamento(id_conta);
+
+create index idx_conta_medidor on sm_enge.Conta (id_medidor);
+
+create index idx_cliente_medidor on sm_enge.Medidor(cpf, id_cliente);
+
 
 
 
