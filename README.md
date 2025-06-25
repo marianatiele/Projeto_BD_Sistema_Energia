@@ -43,5 +43,7 @@ Este projeto apresenta a modelagem de banco de dados em PostgreSQL para um siste
 ## Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir Issues, propor melhorias ou enviar Pull Requests com correções e novos recursos. 
 
+## Projeto em andamento
+Este projeto ainda está em desenvolvimento. Funcionalidades estão sendo adicionadas gradualmente.
 
 
